@@ -1,2 +1,2 @@
 FROM muyangren907/lxsb
-CMD /configure.sh
+CMD /main.sh
